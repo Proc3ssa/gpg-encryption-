@@ -1,4 +1,4 @@
-echo "Select what you want to do"
+echo "Select option"
 select option in Encrypt Decrypt
   do
     echo "You have selected $option"
